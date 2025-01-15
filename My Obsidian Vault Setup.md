@@ -3,7 +3,7 @@ share: true
 ---
 # 1. 파일 관리
 ## PARA
-![PARA](./PARA.md)
+[PARA](./PARA.md)
 - 각각 폴더 별 언제든 문서 및 하위 폴더 이동 가능
 ### Project
 - 도시기후과제
